@@ -2,7 +2,7 @@
 ================
 
 Mozc but it works on Windows 7. Not much else. Might work on Vista with the Extended
-Kernel, but I haven't tested.
+Kernel, but I haven't tested. Have fun.
 
 [Mozc - a Japanese Input Method Editor designed for multi-platform](https://github.com/google/mozc)
 ===================================
